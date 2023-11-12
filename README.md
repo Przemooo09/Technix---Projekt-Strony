@@ -1,4 +1,4 @@
-# Construction Company Website-Template
+# Strona Firmy Technix
 > A simple website template with some interesting features created with HTML , CSS and JavaScript for learning purposes and to practice (Advanced DOM and Events) with JavaScript.
 
 ## Table of Contents
@@ -76,7 +76,7 @@ To do:
 
 
 ## Contact
-Created by [@Orion56](https://github.com/Orion56) - feel free to contact me!
+Created by [@Przemooo09](https://github.com/Przemooo09) - feel free to contact me!
 
 
 ## License
